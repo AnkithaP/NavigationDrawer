@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyNavigationDrawerApp</string>
+
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="social">
+        <item>Facebook</item>
+        <item>Google</item>
+        <item>Twitter</item>
+        <item>YouTube</item>
+    </string-array>
+</resources>
